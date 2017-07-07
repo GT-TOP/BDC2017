@@ -47,7 +47,7 @@
 3 directories, 7 files
 
 ### instructions
-比赛后再来吧
+代码删了，比赛后再来吧
 
 
 
